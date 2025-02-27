@@ -15,7 +15,6 @@ Sinta-se à vontade para explorar e contribuir! 😃
 
 ## 🤖 Linguagens e tecnologias que estou animado de aprender 
 
-<br>
 <img 
     align="left" 
     alt="HTML"
